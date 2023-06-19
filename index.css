@@ -1,0 +1,86 @@
+@font-face {
+    font-family: scorefont;
+    src: url('scorefont.ttf');
+  }
+  
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: #1B244A;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    height: 361px;
+    width: 575px;
+}
+
+.score-container {
+    padding-top: 50px;
+
+}
+
+.title {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    height: 36px;
+    color: #EEEEEE;
+    font-style: bold;
+    vertical-align: top;
+    margin: 15px 0;
+}
+
+
+.score {
+    height: 120px;
+    width: 155px;
+    left: 82px;
+    top: 125px;
+    border-radius: 5px;
+    border: solid 3px black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 90px;
+    padding: 5px;
+    font-family: scorefont;
+    color:#F94F6D;
+    background: #080001;
+}
+
+.points {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plus {
+    height: 45px;
+    width: 45px;
+    border-radius: 5px;
+    border: solid 1px #9AABD8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    margin: 15px 5px;
+    padding: 1px;
+    font-family: scorefont;
+    color: #9AABD8;
+    background: transparent;
+}
+
+.plus:hover {
+    border: solid 1px white;
+    color: white;
+}
