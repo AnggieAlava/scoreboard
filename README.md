@@ -1,6 +1,6 @@
-# A buss passenger counter
+# Score Board App
 
-This is a buss passenger counter app that I built with [Scrimba](https://scrimba.com/) Frontend Developer Career Path.
+This is a Score Board App for Basketball Game, built with [Scrimba](https://scrimba.com/) Frontend Developer Career Path.
 
 ## Technologies Used
 
