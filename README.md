@@ -10,7 +10,7 @@ This is a Score Board App for Basketball Game, built with [Scrimba](https://scri
 
 ## Demo
 
-Check out the live demo [HERE...](https://idyllic-nasturtium-77bf11.netlify.app/).
+Check out the live demo [HERE...](https://sccoreboard.netlify.app/).
 
 ## Preview
 
